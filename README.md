@@ -1,3 +1,3 @@
 # my-repo
 This is my first repositery
-Author- priya 
+Author- priya (cosmos)
